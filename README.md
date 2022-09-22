@@ -1,0 +1,2 @@
+# operatorler
+.net core2
